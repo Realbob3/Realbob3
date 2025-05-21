@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Samuel,
+My name is Samuel, I work with Python, HTML and CSS. I also work in graphic design.
 <!--
 **Realbob3/Realbob3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
